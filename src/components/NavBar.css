@@ -1,0 +1,16 @@
+.nav { position: sticky; top: 0; z-index: 100; backdrop-filter: saturate(180%) blur(8px); background: rgba(255,255,255,0.75); border-bottom: 1px solid rgba(0,0,0,0.06); }
+.nav-inner { max-width: 1100px; margin: 0 auto; padding: 12px 20px; display: flex; align-items: center; justify-content: space-between; }
+.brand { font-weight: 700; color: #3f2b96; text-decoration: none; }
+.nav-links { display: flex; gap: 18px; }
+.nav-links a { color: #444; text-decoration: none; padding: 8px 10px; border-radius: 8px; }
+.nav-links a:hover { background: rgba(99,102,241,0.08); }
+.nav-links .active { background: #6366f11a; color: #4338ca; font-weight: 600; }
+
+/* Language selector */
+.lang-select {
+  border: 1px solid rgba(0,0,0,0.1);
+  background: #fff;
+  color: #333;
+  border-radius: 8px;
+  padding: 6px 8px;
+}

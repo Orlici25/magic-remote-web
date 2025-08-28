@@ -1,0 +1,34 @@
+{
+  "brand": "Magic Remote",
+  "nav": { "home": "Home", "features": "Features", "contact": "Contact" },
+  "header": { "title": "Magic Remote", "subtitle": "Your universal remote control app" },
+  "home": {
+    "remoteExamples": "Remote Examples",
+    "downloadTitle": "Download on the App Stores",
+    "downloadSubtitle": "Experience effortless control. Available on Android and iOS.",
+    "play": { "small": "Get it on", "big": "Google Play" },
+    "appstore": { "small": "Download on the", "big": "App Store" }
+  },
+  "features": {
+    "header": { "title": "Features", "subtitle": "Everything you need to turn your phone into the ultimate remote." },
+    "items": {
+      "universal": { "title": "Universal Control", "desc": "Control TVs, set-top boxes, and smart devices from one app." },
+      "learning": { "title": "Smart Learning", "desc": "Learns your remote patterns and suggests quick actions." },
+      "scan": { "title": "Scan Mode", "desc": "Automatically scan IR/Bluetooth codes to find a working remote quickly." },
+      "favorites": { "title": "Favorite Remotes", "desc": "Pin your most-used remotes for instant access across devices." },
+      "clone": { "title": "Clone Brand Lists", "desc": "Clone or import lists that contain many similar brands to speed setup." },
+      "themes": { "title": "Themes & Haptics", "desc": "Beautiful themes and tactile feedback for better UX." }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "placeholder": {"name": "Your name", "email": "you@example.com", "message": "How can we help?"},
+    "send": "Send Message",
+    "thanks": "Thanks! Your message has been queued. We'll reply at",
+    "or": "Or email us at"
+  },
+  "footer": { "privacy": "Privacy", "terms": "Terms", "support": "Support" }
+}

@@ -1,0 +1,34 @@
+{
+  "brand": "Magic Remote",
+  "nav": { "home": "Accueil", "features": "Fonctionnalités", "contact": "Contact" },
+  "header": { "title": "Magic Remote", "subtitle": "Votre application de télécommande universelle" },
+  "home": {
+    "remoteExamples": "Exemples de télécommandes",
+    "downloadTitle": "Télécharger sur les boutiques",
+    "downloadSubtitle": "Un contrôle sans effort. Disponible sur Android et iOS.",
+    "play": { "small": "Disponible sur", "big": "Google Play" },
+    "appstore": { "small": "Télécharger sur l'", "big": "App Store" }
+  },
+  "features": {
+    "header": { "title": "Fonctionnalités", "subtitle": "Tout ce qu'il faut pour transformer votre téléphone en télécommande ultime." },
+    "items": {
+      "universal": { "title": "Contrôle universel", "desc": "Contrôlez TV, décodeurs et appareils connectés depuis une seule appli." },
+      "learning": { "title": "Apprentissage intelligent", "desc": "Apprend vos habitudes et suggère des actions rapides." },
+      "scan": { "title": "Mode Scan", "desc": "Scanne automatiquement les codes IR/Bluetooth pour trouver une télécommande fonctionnelle." },
+      "favorites": { "title": "Télécommandes favorites", "desc": "Épinglez vos télécommandes les plus utilisées pour un accès instantané." },
+      "clone": { "title": "Listes de marques clonées", "desc": "Clonez ou importez des listes contenant de nombreuses marques similaires pour accélérer la configuration." },
+      "themes": { "title": "Thèmes & Haptique", "desc": "De beaux thèmes et un retour haptique pour une meilleure UX." }
+    }
+  },
+  "contact": {
+    "title": "Nous contacter",
+    "name": "Nom",
+    "email": "E-mail",
+    "message": "Message",
+    "placeholder": {"name": "Votre nom", "email": "vous@exemple.com", "message": "Comment pouvons-nous aider ?"},
+    "send": "Envoyer",
+    "thanks": "Merci ! Votre message a été pris en compte. Nous répondrons à",
+    "or": "Ou écrivez-nous à"
+  },
+  "footer": { "privacy": "Confidentialité", "terms": "Conditions", "support": "Support" }
+}
